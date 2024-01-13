@@ -63,6 +63,12 @@ const RGB888 COLOR2RGB888[16] = {
   { 255,   0, 255 }, // BrightMagenta
   {   0, 255, 255 }, // BrightCyan
   { 255, 255, 255 }, // BrightWhite
+  { 211, 211, 211 }, // Lightgray
+  { 255, 165, 0 }, // Orange
+  { 204, 204, 0 }, // DarkYellow
+  { 0, 0, 139 }, // DarkBlue
+  { 139, 0, 0 }, // DarkRed
+  { 169, 169, 169 } // DarkGrey
 };
 
 
