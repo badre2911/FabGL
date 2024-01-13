@@ -216,6 +216,12 @@ enum Color {
   BrightMagenta,  /**< Equivalent to RGB888(255,0,255) */
   BrightCyan,     /**< Equivalent to RGB888(0,255,255) */
   BrightWhite,    /**< Equivalent to RGB888(255,255,255) */
+  Lightgray,       /**< Equivalent to RGB888(211,211,211) */
+  Orange,         /**< Equivalent to RGB888(255,165,0) */
+  DarkYellow,       /**< Equivalent to RGB888(204,204,0) */
+  DarkBlue,        /**< Equivalent to RGB888(0,0,139) */
+  DarkRed,         /**< Equivalent to RGB888(139,0,0) */
+  DarkGrey         /**< Equivalent to RGB888(169,169,169) */
 };
 
 
