@@ -1,4 +1,4 @@
-This ia fork of FabGl 1.0.9 for add color (LightGray, Orange, DarkYellow, DarkBlue, DarkRed, DarkGrey)
+This ia fork of FabGl 1.0.9 for add color (LightGray, Orange, DarkYellow, DarkBlue, DarkRed, DarkGrey).
 
 =========
 
